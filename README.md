@@ -1,4 +1,4 @@
-# Spatial-identification-of-regions-exposed-to-multi-hazards-at-pan-European-level-(EMHERG)-
+# Spatial-identification-of-regions-exposed-to-multi-hazards-at-pan-European-level-(EMHERG)
 The repository provides a code that (1) performs a hotspot analysis on the assets (built-up and population) exposed to single hazards (coastal floods, earthquakes, river floods, landslides, subsidence, and wildfires) (2) combines single hazards hotspots into a multi-hazard hotspots identifying the regions exposed to multi-hazards at European level.
 # Data requirements:
 - Built-up and population exposure data available from the DRMKC Risk Data Hub (https://drmkc.jrc.ec.europa.eu/risk-data-hub/#/).
