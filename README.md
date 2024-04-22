@@ -11,3 +11,5 @@ For the development of the code Python 3.7 was used. Anaconda3 environment was u
 
 # How to cite:
 Antofie, T.-E., Luoni, S., Tilloy, A., Sibilia, A., Salari, S., Eklund, G., Rodomonti, D., Bountzouklis, C., and Corbane, C.: Spatial identification of regions exposed to multi-hazards at pan European level, Nat. Hazards Earth Syst. Sci. Discuss, https://doi.org/10.5194/nhess-2023-220, in review, 2024.
+# License
+Copyright (C) 2024 Tiberiu Antofie. All versions released under the GNU Affero General Public License v3.0 license.
