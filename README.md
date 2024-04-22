@@ -7,7 +7,7 @@ The repository provides a code that (1) performs a hotspot analysis on the asset
 
   The data used for this analysis is also made available in a dedicated [directory](https://github.com/Tiberiu-79/Spatial-identification-of-regions-exposed-to-multi-hazards-at-pan-European-level-EMHERG-/tree/main/Data_MH) accesible from this repository. 
 # Python requirements:
-For the development of the code Python 3.7 was used. Anaconda3 environment was used for this project in odrder to handle libraries dependencies.
+For the development of the code, Python version 3.7 was used. Anaconda3 environment was used for handling libraries dependencies.
 
 # How to cite:
 Antofie, T.-E., Luoni, S., Tilloy, A., Sibilia, A., Salari, S., Eklund, G., Rodomonti, D., Bountzouklis, C., and Corbane, C.: Spatial identification of regions exposed to multi-hazards at pan European level, Nat. Hazards Earth Syst. Sci. Discuss, https://doi.org/10.5194/nhess-2023-220, in review, 2024.
