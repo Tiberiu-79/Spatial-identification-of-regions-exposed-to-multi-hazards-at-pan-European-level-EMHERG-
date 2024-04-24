@@ -5,8 +5,8 @@ The repository provides a code that (1) performs a hotspot analysis on the asset
 # Data requirements:
 - Built-up and population exposure data available from the DRMKC Risk Data Hub (https://drmkc.jrc.ec.europa.eu/risk-data-hub/#/).
 - GDP per Capita at NUTS3 available from Eurostat: https://ec.europa.eu/eurostat/statistics-explained/index.php?oldid=500199
-- Local Administrative units as.shp available from Eurostat: https://ec.europa.eu/eurostat/web/nuts/local-administrative-units.
-- NUT3 as .shp available from Eurostat: https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units
+- Local Administrative units as.shp files available from Eurostat: https://ec.europa.eu/eurostat/web/nuts/local-administrative-units.
+- NUT3 and EU27+UK+EFTA Countries as .shp files available from Eurostat: https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units
 - URAU 2021 data: https://ec.europa.eu/eurostat/web/gisco/geodata/reference-data/administrative-units-statistical-units/urban-audit
 
   The data used for this analysis is also made available in a dedicated [directory](https://github.com/Tiberiu-79/Spatial-identification-of-regions-exposed-to-multi-hazards-at-pan-European-level-EMHERG-/tree/main/Data_MH) accesible from this repository. 
